@@ -30,6 +30,6 @@ Here are my main school projects so far:
 <!-- ## 🐍 Python & Side Projects -->
 
 ## 📫 Where to Find Me
-- ✉️ [Email](diogo.soeiroavila@gmail.com)
+- ✉️ [Email]diogo.soeiroavila@gmail.com
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
