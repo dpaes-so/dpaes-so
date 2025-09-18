@@ -27,7 +27,8 @@ Here are my main school projects so far:
 | [42-Cube3D](https://github.com/pingingj/cub3d.git) | Raycasting game |
 
 
-<!-- ## 🐍 Python & Side Projects -->
+ ## 🐍 Python & Side Projects 
+ [Muse_Bot](https://github.com/dpaes-so/muse_bot.git) | A bot because i dont want to play games|
 
 ## 📫 Where to Find Me
 - ✉️ [Email]diogo.soeiroavila@gmail.com
