@@ -4,8 +4,8 @@
 ## 🌟 About Me
 - 🎓 Student at 42 Lisbon
 - 💻 Passionate about systems programming and learning Python
-<!--- 🎮 Hobbies: video games,--> 
 - 🤖 Exploring AI and cybersecurity, preparing for the robot uprising.
+<!--- 🎮 Hobbies: video games,--> 
 
 ## 🎯 Goals
 - Finish 42 cursus []
