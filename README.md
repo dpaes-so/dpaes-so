@@ -28,6 +28,9 @@ Here are my main school projects so far:
 
 
  ## 🐍 Python & Side Projects 
+ 
+| Project | Description |
+|---------|------------|
 | [Muse_Bot](https://github.com/dpaes-so/muse_bot.git) | A bot because i dont want to play games|
 
 ## 📫 Where to Find Me
