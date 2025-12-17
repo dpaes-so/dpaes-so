@@ -28,7 +28,7 @@ Here are my main school projects so far:
 | [CPP 0-4](https://github.com/dpaes-so/cpp00.git) | CPP projects |
 
 
- ## 🐍 Python & Side Projects 
+ ##  Python & Side Projects 
  
 | Project | Description |
 |---------|------------|
