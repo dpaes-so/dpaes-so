@@ -23,7 +23,7 @@ Here are my main school projects so far:
 | [42-So_long](https://github.com/dpaes-so/42-So_long.git) | A small 2D game |
 | [42-Pipex](https://github.com/dpaes-so/42-Pipex.git) | Execution of commands from a shell |
 | [42-Philosophers](https://github.com/dpaes-so/42-Philosophers.git) | The Dining Philosophers problem |
-| [42-Minishell](https://github.com/dpaes-so/Minishell.git) | My own minimalist shell |
+| [42-Minishell](https://github.com/dpaes-so/42-Minishell.git) | My own minimalist shell |
 | [42-Cub3D](https://github.com/dpaes-so/42-Cub3D) | Raycasting game |
 | [42-Cpp 0-4](https://github.com/dpaes-so/cpp00.git) | CPP projects |
 
